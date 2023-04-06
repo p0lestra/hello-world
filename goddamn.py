@@ -1,1 +1,2 @@
 ghgffgf
+print('Привет')
