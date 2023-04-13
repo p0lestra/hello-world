@@ -1,2 +1,1 @@
-ghgffgf
-print('Привет')
+yo wasap
